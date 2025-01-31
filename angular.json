@@ -91,6 +91,7 @@
               "zone.js/testing"
             ],
             "browsers": "ChromeHeadless",
+            "watch": false,
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",
             "assets": [
